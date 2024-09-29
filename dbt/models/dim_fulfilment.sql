@@ -4,7 +4,7 @@ With t_data AS (
 SELECT DISTINCT 
   Fulfilment AS fulfilment, 
   `fulfilled-by` AS fulfilled_by
-FROM `data-stack-398710.dibimbing.amazon_sale_report` -- Sesuaikan dengan table kalian
+FROM `vivid-vent-437112-h9.dibimbing.amazon_sale_report` -- Sesuaikan dengan table kalian
 )
 
 SELECT 

@@ -13,4 +13,4 @@ SELECT index,
 			])}} AS fulfilment_id,
   qty,
   amount,
-FROM `data-stack-398710.dibimbing.amazon_sale_report` -- sesuaikan dengan table kalian
+FROM `vivid-vent-437112-h9.dibimbing.amazon_sale_report` -- sesuaikan dengan table kalian

@@ -11,7 +11,7 @@ SELECT DISTINCT
   Category AS category,
   Size AS size,
 FROM
-    `data-stack-398710.dibimbing.amazon_sale_report`  -- sesuaikan dengan table kalian
+    `vivid-vent-437112-h9.dibimbing.amazon_sale_report`  -- sesuaikan dengan table kalian
 
 )
 
